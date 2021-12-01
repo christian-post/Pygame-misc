@@ -15,6 +15,8 @@ DISPLAY_COLOR = (80, 120, 80)
 
 NUMBERS = '1234567890'
 
+a = "hello world"
+
 
 def add(x):
     return sum(x)
